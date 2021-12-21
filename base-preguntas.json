@@ -1,0 +1,301 @@
+[
+    {
+        "categoria": "NIVEL 1",
+        "premio": 500000,
+        "pregunta": "En los baños suelo estar aunque provengo del mar. ¿Quién soy?",
+        "respuesta": "La esponja",
+        "incorrecta1": "El espejo",
+        "incorrecta2": "El tomacorriente",
+        "incorrecta3": "La papelera\r",
+        "imagen": "https://i.ibb.co/FVpSGht/nivel1.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 1",
+        "premio": 500000,
+        "pregunta": "La pandereta es un instrumento de...",
+        "respuesta": "Percusión",
+        "incorrecta1": "Viento-metal",
+        "incorrecta2": "Cuerda",
+        "incorrecta3": "Tortura\r",
+        "imagen": "https://i.ibb.co/FVpSGht/nivel1.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 1",
+        "premio": 500000,
+        "pregunta": "¿Cuál es la combinación de las teclas que copia texto en un computador?",
+        "respuesta": "Ctrl + C",
+        "incorrecta1": "Ctrl + P",
+        "incorrecta2": "Ctrl + Q",
+        "incorrecta3": "Ctrl + V\r",
+        "imagen": "https://i.ibb.co/FVpSGht/nivel1.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 1",
+        "premio": 500000,
+        "pregunta": "¿De qué color era el caballo blanco del libertador Simón Bolívar?",
+        "respuesta": "Blanco",
+        "incorrecta1": "Gris",
+        "incorrecta2": "Alazán",
+        "incorrecta3": "Carmesí\r",
+        "imagen": "https://i.ibb.co/FVpSGht/nivel1.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 1",
+        "premio": 500000,
+        "pregunta": "¿En qué continente se encuentra Chile?",
+        "respuesta": "América del Sur",
+        "incorrecta1": "Europa",
+        "incorrecta2": "Oceanía",
+        "incorrecta3": "África\r",
+        "imagen": "https://i.ibb.co/FVpSGht/nivel1.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 2",
+        "premio": 1000000,
+        "pregunta": "La Estatua de la Libertad fue un regalo que los Estados Unidos recibió de...",
+        "respuesta": "Francia",
+        "incorrecta1": "Canadá",
+        "incorrecta2": "Holanda",
+        "incorrecta3": "Egipto\r",
+        "imagen": "https://i.ibb.co/L8G1dJy/nivel2.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 2",
+        "premio": 1000000,
+        "pregunta": "El símbolo químico de la plata es...",
+        "respuesta": "Ag",
+        "incorrecta1": "Pl",
+        "incorrecta2": "Mo",
+        "incorrecta3": "Pt\r",
+        "imagen": "https://i.ibb.co/L8G1dJy/nivel2.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 2",
+        "premio": 1000000,
+        "pregunta": "¿A qué dirigente latinoamericano mandó callar Juan Carlos de Borbón?",
+        "respuesta": "Hugo Chávez",
+        "incorrecta1": "Evo Morales",
+        "incorrecta2": "Fidel Castro",
+        "incorrecta3": "Rafael Correa\r",
+        "imagen": "https://i.ibb.co/L8G1dJy/nivel2.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 2",
+        "premio": 1000000,
+        "pregunta": "En qué país es el panda el animal nacional?",
+        "respuesta": "China",
+        "incorrecta1": "Canadá",
+        "incorrecta2": "Tanzania",
+        "incorrecta3": "Australia\r",
+        "imagen": "https://i.ibb.co/L8G1dJy/nivel2.jpg",
+        "objectFit": "contain"
+    },
+
+    {   
+        "categoria": "NIVEL 2",
+        "premio": 1000000,
+        "pregunta": "¿Qué tipo de competición es el Giro de Italia?",
+        "respuesta": "Una Carrera Ciclística",
+        "incorrecta1": "Una Competición De Vela",
+        "incorrecta2": "Una Maratón",
+        "incorrecta3": "Una Carrera Automovilística\r",
+        "imagen": "https://i.ibb.co/L8G1dJy/nivel2.jpg",
+        "objectFit": "contain"
+    },    
+
+    {   
+        "categoria": "NIVEL 3",
+        "premio": 30000000,
+        "pregunta": "Belmopán es la capital de...",
+        "respuesta": "Bélice",
+        "incorrecta1": "Congo",
+        "incorrecta2": "Perú",
+        "incorrecta3": "Guyana\r",
+        "imagen": "https://i.ibb.co/k3x59tC/nivel3.jpg",
+        "objectFit": "contain"
+    }, 
+
+    {
+        "categoria": "NIVEL 3",
+        "premio": 30000000,
+        "pregunta": "Esta enfermedad ataca al hígado:",
+        "respuesta": "Hepatitis",
+        "incorrecta1": "Rinitis",
+        "incorrecta2": "Bulimia",
+        "incorrecta3": "Onicomicosis\r",
+        "imagen": "https://i.ibb.co/k3x59tC/nivel3.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 3",
+        "premio": 30000000,
+        "pregunta": " ¿Cómo se llama el protagonista de la saga Indiana Jones?",
+        "respuesta": "Harrison Ford",
+        "incorrecta1": "Jack Nicholson",
+        "incorrecta2": "Michael J. Fox",
+        "incorrecta3": "Robin Williams\r",
+        "imagen": "https://i.ibb.co/k3x59tC/nivel3.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 3",
+        "premio": 30000000,
+        "pregunta": "¿Quién se dice que inventó la fábula?",
+        "respuesta": "Esopo",
+        "incorrecta1": "Platón ",
+        "incorrecta2": "Eurípides ",
+        "incorrecta3": "Sócrates \r",
+        "imagen": "https://i.ibb.co/k3x59tC/nivel3.jpg",
+        "objectFit": "contain"
+    },
+
+    {   
+        "categoria": "NIVEL 3",
+        "premio": 30000000,
+        "pregunta": "¿Cómo se llama la capital del antiguo imperio azteca?",
+        "respuesta": "Tenochtitlán",
+        "incorrecta1": "Quetzalcoatl",
+        "incorrecta2": "Culhuacan",
+        "incorrecta3": "Texcoco\r",
+        "imagen": "https://i.ibb.co/k3x59tC/nivel3.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 4",
+        "premio": 60000000,
+        "pregunta": "¿El déficit de qué vitamina produce raquitismo?",
+        "respuesta": "D",
+        "incorrecta1": "C",
+        "incorrecta2": "A",
+        "incorrecta3": "E",
+        "imagen": "https://i.ibb.co/M1NL4h9/nivel4.jpg",
+        "objectFit": "contain"        
+    },
+
+    {
+        "categoria": "NIVEL 4",
+        "premio": 60000000,
+        "pregunta": "¿Dónde vive el delfín rosado?",
+        "respuesta": "En Brasil",
+        "incorrecta1": "En Oceanía",
+        "incorrecta2": "Sólo en aguas cálidas",
+        "incorrecta3": "Sólo en aguas muy frías\r",
+        "imagen": "https://i.ibb.co/M1NL4h9/nivel4.jpg",
+        "objectFit": "contain"        
+    },
+
+    {
+        "categoria": "NIVEL 4",
+        "premio": 60000000,
+        "pregunta": " ¿Cómo se llama el pájaro símbolo de los Juegos del Hambre?",
+        "respuesta": "Sinsajo",
+        "incorrecta1": "Lechuza",
+        "incorrecta2": "Gale",
+        "incorrecta3": "Llamas\r",
+        "imagen": "https://i.ibb.co/M1NL4h9/nivel4.jpg",
+        "objectFit": "contain"        
+    },
+
+    {
+        "categoria": "NIVEL 4",
+        "premio": 60000000,
+        "pregunta": "¿Qué es π, (número pi)?",
+        "respuesta": "Es el cociente entre la longitud de la circunferencia y el diámetro",
+        "incorrecta1": "Es la relacion entre el diametro y el radio",
+        "incorrecta2": "El producto del Área con el perímetro",
+        "incorrecta3": "La raiz del radio\r",
+        "imagen": "https://i.ibb.co/M1NL4h9/nivel4.jpg",
+        "objectFit": "contain"        
+    },
+
+    {
+        "categoria": "NIVEL 4",
+        "premio": 60000000,
+        "pregunta": "El autor de la novela \"Moby Dick\" fue...",
+        "respuesta": "Herman Melville",
+        "incorrecta1": "Ernesto Sábato",
+        "incorrecta2": "Ernest Hemingway",
+        "incorrecta3": "Julio Verne\r",
+        "imagen": "https://i.ibb.co/M1NL4h9/nivel4.jpg",
+        "objectFit": "contain"        
+    },
+
+    {
+        "categoria": "NIVEL 5",
+        "premio": 100000000,
+        "pregunta": "Obra de mármol de Miguel Ángel que se encuentra en la Basílica de San Pedro:",
+        "respuesta": "La Piedad",
+        "incorrecta1": "La Turbación",
+        "incorrecta2": "La Cruz",
+        "incorrecta3": "La Mona Lisa\r",
+        "imagen": "https://i.ibb.co/Xx6CBW0/nivel5.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 5",
+        "premio": 100000000,
+        "pregunta": "Las nutrias de mar, ¿con qué abren las ostras?",
+        "respuesta": "Con Una Piedra",
+        "incorrecta1": "Con Un Palo",
+        "incorrecta2": "Con Los Dientes",
+        "incorrecta3": "Con Las Uñas\r",
+        "imagen": "https://i.ibb.co/Xx6CBW0/nivel5.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 5",
+        "premio": 100000000,
+        "pregunta": "¿Cuál es la ciudad más antigua de América Latina?",
+        "respuesta": "Caral",
+        "incorrecta1": "Valparaíso",
+        "incorrecta2": "Arequipa",
+        "incorrecta3": "La Paz\r",
+        "imagen": "https://i.ibb.co/Xx6CBW0/nivel5.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "NIVEL 5",
+        "premio": 100000000,
+        "pregunta": "¿En cuántos mundiales de fútbol participó la selección de Canadá?",
+        "respuesta": "1",
+        "incorrecta1": "0",
+        "incorrecta2": "2",
+        "incorrecta3": "5\r",
+        "imagen": "https://i.ibb.co/Xx6CBW0/nivel5.jpg",
+        "objectFit": "contain"
+    },   
+        
+    {
+        "categoria": "NIVEL 5",
+        "premio": 100000000,
+        "pregunta": " ¿Qué es la celiaquía?",
+        "respuesta": "Intolerancia Al Gluten",
+        "incorrecta1": "Alergia Al Polvo",
+        "incorrecta2": "Hambre Insaciable",
+        "incorrecta3": "Embriaguez\r",
+        "imagen": "https://i.ibb.co/Xx6CBW0/nivel5.jpg",
+        "objectFit": "contain"
+    }
+]
